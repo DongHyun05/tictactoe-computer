@@ -1,1 +1,1 @@
-# tictactoe-computer
+# 컴퓨터와 하는 틱택토
